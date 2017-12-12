@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+
+with open("1.txt",'r+') as rf:
+	hh={}
+	for x in rf.readlines():
+		ks=x.split()
+		for s in ks:
+			if s in hh:
+				hh[s]+=1
+			else:
+				hh[s]=1
+	print (hh)	

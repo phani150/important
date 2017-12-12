@@ -1,0 +1,8 @@
+Name     company  location
+phani    srm   vijayawada
+mani     srm      godavari
+chandu   lotuic   godavari
+vamsi    srm      vijayawada
+chandu   srm      guntur
+chandu   lotuic   godavari
+chandu   srm      guntur

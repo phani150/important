@@ -1,0 +1,6 @@
+Name     company  location
+phani    NTTDATA   vijayawada
+mani     srm      godavari
+chandu   lotuic   godavari
+vamsi    srm      vijayawada
+chandu   srm      guntur

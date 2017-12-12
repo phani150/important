@@ -1,0 +1,4 @@
+name      place      company
+phani    vijayawada  ntt data
+srinu    nellore     cts
+naresh   guntur      tcs
