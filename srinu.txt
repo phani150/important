@@ -1,0 +1,6 @@
+pycharms
+phani
+naresh
+chandu
+sai
+/usr/bin/python

@@ -1,5 +1,0 @@
-firstname-lastname-city-skillset-salary
-hari-prasad-nellore-perl-500000
-siva-pala-ongole-tcl-600000
-siva-perike-kammam-php-900000
-phani-desaboyina-warangal-web design-900000
